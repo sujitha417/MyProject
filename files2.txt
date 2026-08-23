@@ -1,0 +1,2 @@
+This is modified in files2.txt
+hello git
